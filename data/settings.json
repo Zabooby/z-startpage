@@ -23,7 +23,7 @@
 	},
 	"terminal": {
 		"fixedHeight": true,
-		"windowGlow": true,
+		"windowGlow": false,
 		"windowGlowColor": "#586481",
 		"textGlow": false,
 		"opacity": 0,
@@ -116,83 +116,83 @@
 				]
 			},
 			{
-				"title": "Dev",
+				"title": "Stuff",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
+						"name": "Gmail",
 						"url": "https://github.com",
 						"icon": "mdi:github"
 					},
 					{
-						"name": "GitLab",
+						"name": "Twitch",
 						"url": "https://gitlab.com",
 						"icon": "ph:gitlab-logo-simple-fill"
 					},
 					{
-						"name": "Dev.to",
+						"name": "YouTube",
 						"url": "https://dev.to",
 						"icon": "material-symbols:logo-dev"
 					},
 					{
-						"name": "Stack Overflow",
+						"name": "Flipboard",
 						"url": "https://stackoverflow.com/",
 						"icon": "mdi:stack-overflow"
 					}
 				]
 			},
 			{
-				"title": "Social",
+				"title": "Watch",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "IMDb",
+						"url": "https://www.imdb.com/",
+						"icon": "cib:imdb"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "Nyaa",
+						"url": "https://nyaa.si/",
+						"icon": "mdi:movie-search"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
+						"name": "FMHY",
+						"url": "https://fmhy.pages.dev/torrentpiracyguide#torrent-sites/",
+						"icon": "mdi:movie-search"
 					},
 					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
+						"name": "MyAnimeList",
+						"url": "https://myanimelist.net/",
+						"icon": "simple-icons:myanimelist"
 					}
 				]
 			},
 			{
-				"title": "Gaming",
+				"title": "Socials",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "Polygon",
-						"url": "https://polygon.com",
-						"icon": "uil:polygon"
+						"name": "Reddit",
+						"url": "https://www.reddit.com/",
+						"icon": "mdi:reddit"
 					},
 					{
-						"name": "IGN",
-						"url": "https://ign.com",
-						"icon": "mdi:currency-sign"
+						"name": "Twitter",
+						"url": "https://www.twitter.com/",
+						"icon": "mdi:twitter"
 					},
 					{
-						"name": "RPS",
-						"url": "https://rockpapershotgun.com/",
-						"icon": "ph:toilet-paper-bold"
+						"name": "Discord",
+						"url": "https://discord.com/channels/545311446641278976/1170300768725762169/",
+						"icon": "ic:baseline-discord"
 					},
 					{
-						"name": "80lv",
-						"url": "https://80.lv/",
-						"icon": "tabler:hand-rock"
+						"name": "Instagram",
+						"url": "https://instagram.com/",
+						"icon": "mdi:instagram"
 					}
 				]
 			},
@@ -245,7 +245,7 @@
 					},
 					{
 						"name": "Cyanide and Happiness",
-						"url": "https://explosm.net/comics/latest",
+						"url": "https://explosm.net/comics/latest/",
 						"icon": "mdi:comic-bubble"
 					}
 				]
