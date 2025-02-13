@@ -89,29 +89,29 @@
 	"sections": {
 		"list": [
 			{
-				"title": "Work",
+				"title": "Work/Money",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
 						"name": "Portfolio",
 						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"icon": "tdesign:money"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "CFA",
+						"url": "https://www.cfainstitute.org",
+						"icon": "mdi:book"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
+						"name": "LinkedIn",
+						"url": "https://www.linkedin.com",
 						"icon": "simple-icons:openai"
 					},
 					{
-						"name": "OCI",
+						"name": "TimeTable",
 						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"icon": "mdi:timetable"
 					}
 				]
 			},
@@ -122,8 +122,8 @@
 				"links": [
 					{
 						"name": "Gmail",
-						"url": "https://github.com",
-						"icon": "mdi:email"
+						"url": "https://mail.google.com/mail/u/1/#inbox",
+						"icon": "mdi:gmail"
 					},
 					{
 						"name": "Twitch",
