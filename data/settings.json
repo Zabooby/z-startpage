@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#1e222c",
@@ -27,7 +27,7 @@
 		"windowGlowColor": "#586481",
 		"textGlow": false,
 		"opacity": 0,
-		"blur": 16
+		"blur": 10
 	},
 	"prompt": {
 		"ctrlC": true,
