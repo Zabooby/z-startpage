@@ -2,29 +2,29 @@
 	"username": "Excalith",
 	"theme": {
 		"name": "Default",
-		"backgroundColor": "#121317",
-		"windowColor": "#1e212b",
-		"textColor": "#e2e2e2",
+		"backgroundColor": "#1e222c",
+		"windowColor": "#232834",
+		"textColor": "#f0f0f0",
 		"black": "#16161e",
 		"red": "#ec6183",
 		"green": "#2ed8a2",
 		"yellow": "#e8b195",
-		"blue": "#2bc3de",
+		"blue": "#586481",
 		"magenta": "#d1aff8",
 		"cyan": "#62e0e2",
-		"white": "#e2e2e2",
+		"white": "#f0f0f0",
 		"gray": "#97989d"
 	},
 	"wallpaper": {
 		"url": "assets/default-wallpaper.svg",
 		"easing": "ease-in-out",
 		"fadeIn": true,
-		"blur": false
+		"blur": true
 	},
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": true,
-		"windowGlowColor": "#291f3325",
+		"windowGlowColor": "#232834",
 		"textGlow": false,
 		"opacity": 0,
 		"blur": 16
@@ -32,20 +32,20 @@
 	"prompt": {
 		"ctrlC": true,
 		"placeholder": "command...",
-		"placeholderColor": "gray",
-		"userColor": "green",
-		"atColor": "gray",
-		"hostColor": "magenta",
-		"promptColor": "magenta",
+		"placeholderColor": "blue",
+		"userColor": "blue",
+		"atColor": "blue",
+		"hostColor": "blue",
+		"promptColor": "white",
 		"promptSymbol": "❯",
-		"caretColor": "green",
-		"selectionBg": "yellow",
-		"selectionFg": "black"
+		"caretColor": "white",
+		"selectionBg": " ",
+		"selectionFg": "white"
 	},
 	"fetch": {
 		"timeFormat": "HH:mm",
 		"dateFormat": "DD/MM/YYYY",
-		"titleColor": "yellow",
+		"titleColor": "blue",
 		"image": "assets/default-icon.svg",
 		"data": [
 			"Time: {time}",
@@ -62,7 +62,7 @@
 	},
 	"urlLaunch": {
 		"target": "_self",
-		"hoverColor": "magenta"
+		"hoverColor": "blue"
 	},
 	"search": {
 		"default": "https://google.com/search?q=",
@@ -71,38 +71,18 @@
 		"shortcuts": [
 			{
 				"alias": "g",
-				"name": "Google Search",
-				"url": "https://google.com/search?q={}"
-			},
-			{
-				"alias": "d",
-				"name": "DuckDuckGo Search",
-				"url": "https://duckduckgo.com/?q={}"
-			},
-			{
-				"alias": "b",
-				"name": "Brave Search",
-				"url": "https://search.brave.com/search?q={}"
-			},
-			{
-				"alias": "gh",
 				"name": "Github Search",
 				"url": "https://github.com/search?q={}"
 			},
 			{
-				"alias": "s",
-				"name": "Stack Overflow Search",
-				"url": "https://stackoverflow.com/search?q={}"
+				"alias": "y",
+				"name": "YouTube Search",
+				"url": "https://www.youtube.com/results?search_query={}"
 			},
 			{
 				"alias": "r",
 				"name": "Subreddit Search",
 				"url": "https://reddit.com/r/{}"
-			},
-			{
-				"alias": "w",
-				"name": "Wikipedia Search",
-				"url": "https://en.wikipedia.org/wiki/{}"
 			}
 		]
 	},
