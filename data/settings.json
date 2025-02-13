@@ -24,14 +24,14 @@
 	"terminal": {
 		"fixedHeight": true,
 		"windowGlow": true,
-		"windowGlowColor": "#232834",
+		"windowGlowColor": "#586481",
 		"textGlow": false,
 		"opacity": 0,
 		"blur": 16
 	},
 	"prompt": {
 		"ctrlC": true,
-		"placeholder": "command...",
+		"placeholder": "",
 		"placeholderColor": "blue",
 		"userColor": "blue",
 		"atColor": "blue",
@@ -89,8 +89,8 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
-				"color": "green",
+				"title": "Work",
+				"color": "blue",
 				"align": "left",
 				"links": [
 					{
@@ -117,7 +117,7 @@
 			},
 			{
 				"title": "Dev",
-				"color": "magenta",
+				"color": "blue",
 				"align": "left",
 				"links": [
 					{
@@ -144,7 +144,7 @@
 			},
 			{
 				"title": "Social",
-				"color": "cyan",
+				"color": "blue",
 				"align": "left",
 				"links": [
 					{
@@ -171,7 +171,7 @@
 			},
 			{
 				"title": "Gaming",
-				"color": "red",
+				"color": "blue",
 				"align": "left",
 				"links": [
 					{
@@ -197,56 +197,56 @@
 				]
 			},
 			{
-				"title": "Science",
+				"title": "Other Stuf",
 				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
+						"name": "Github",
+						"url": "https://github.com/",
+						"icon": "carbon:logo-github"
 					},
 					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
+						"name": "ChatGPT",
+						"url": "https://chat.openai.com/chat/",
+						"icon": "tabler:brand-openai"
 					},
 					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
+						"name": "Monkeytype",
+						"url": "https://monkeytype.com/",
+						"icon": "material-symbols:keyboard-alt-rounded"
 					},
 					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
+						"name": "Hacker News",
+						"url": "https://news.ycombinator.com/",
+						"icon": "fa6-brands:square-hacker-news"
 					}
 				]
 			},
 			{
-				"title": "Tech",
-				"color": "yellow",
+				"title": "Comics",
+				"color": "blue",
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "xkcd",
+						"url": "https://xkcd.com/",
+						"icon": "mdi:comic-bubble"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "SMBC",
+						"url": "https://www.smbc-comics.com/",
+						"icon": "mdi:comic-bubble"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
+						"name": "Swords",
+						"url": "https://swordscomic.com/",
+						"icon": "mdi:comic-bubble"
 					},
 					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
+						"name": "Cyanide and Happiness",
+						"url": "https://explosm.net/comics/latest",
+						"icon": "mdi:comic-bubble"
 					}
 				]
 			}
