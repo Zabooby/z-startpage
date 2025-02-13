@@ -123,22 +123,22 @@
 					{
 						"name": "Gmail",
 						"url": "https://github.com",
-						"icon": "mdi:github"
+						"icon": "mdi:email"
 					},
 					{
 						"name": "Twitch",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"url": "https://www.twitch.tv",
+						"icon": "mdi:twitch"
 					},
 					{
 						"name": "YouTube",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
+						"url": "https://www.youtube.com",
+						"icon": "mdi:youtube"
 					},
 					{
 						"name": "Flipboard",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"url": "https://flipboard.com",
+						"icon": "mdi:newspaper-variant"
 					}
 				]
 			},
@@ -149,22 +149,22 @@
 				"links": [
 					{
 						"name": "IMDb",
-						"url": "https://www.imdb.com/",
+						"url": "https://www.imdb.com",
 						"icon": "cib:imdb"
 					},
 					{
 						"name": "Nyaa",
-						"url": "https://nyaa.si/",
+						"url": "https://nyaa.si",
 						"icon": "mdi:movie-search"
 					},
 					{
 						"name": "FMHY",
-						"url": "https://fmhy.pages.dev/torrentpiracyguide#torrent-sites/",
+						"url": "https://fmhy.pages.dev/torrentpiracyguide#torrent-sites",
 						"icon": "mdi:movie-search"
 					},
 					{
 						"name": "MyAnimeList",
-						"url": "https://myanimelist.net/",
+						"url": "https://myanimelist.net",
 						"icon": "simple-icons:myanimelist"
 					}
 				]
@@ -176,22 +176,22 @@
 				"links": [
 					{
 						"name": "Reddit",
-						"url": "https://www.reddit.com/",
+						"url": "https://www.reddit.com",
 						"icon": "mdi:reddit"
 					},
 					{
 						"name": "Twitter",
-						"url": "https://www.twitter.com/",
+						"url": "https://www.twitter.com",
 						"icon": "mdi:twitter"
 					},
 					{
 						"name": "Discord",
-						"url": "https://discord.com/channels/545311446641278976/1170300768725762169/",
+						"url": "https://discord.com/channels/545311446641278976/1170300768725762169",
 						"icon": "ic:baseline-discord"
 					},
 					{
 						"name": "Instagram",
-						"url": "https://instagram.com/",
+						"url": "https://instagram.com",
 						"icon": "mdi:instagram"
 					}
 				]
@@ -203,22 +203,22 @@
 				"links": [
 					{
 						"name": "Github",
-						"url": "https://github.com/",
+						"url": "https://github.com",
 						"icon": "carbon:logo-github"
 					},
 					{
 						"name": "ChatGPT",
-						"url": "https://chat.openai.com/chat/",
+						"url": "https://chat.openai.com/chat",
 						"icon": "tabler:brand-openai"
 					},
 					{
 						"name": "Monkeytype",
-						"url": "https://monkeytype.com/",
+						"url": "https://monkeytype.com",
 						"icon": "material-symbols:keyboard-alt-rounded"
 					},
 					{
 						"name": "Hacker News",
-						"url": "https://news.ycombinator.com/",
+						"url": "https://news.ycombinator.com",
 						"icon": "fa6-brands:square-hacker-news"
 					}
 				]
@@ -230,22 +230,22 @@
 				"links": [
 					{
 						"name": "xkcd",
-						"url": "https://xkcd.com/",
+						"url": "https://xkcd.com",
 						"icon": "mdi:comic-bubble"
 					},
 					{
 						"name": "SMBC",
-						"url": "https://www.smbc-comics.com/",
+						"url": "https://www.smbc-comics.com",
 						"icon": "mdi:comic-bubble"
 					},
 					{
 						"name": "Swords",
-						"url": "https://swordscomic.com/",
+						"url": "https://swordscomic.com",
 						"icon": "mdi:comic-bubble"
 					},
 					{
 						"name": "Cyanide and Happiness",
-						"url": "https://explosm.net/comics/latest/",
+						"url": "https://explosm.net/comics/latest",
 						"icon": "mdi:comic-bubble"
 					}
 				]
