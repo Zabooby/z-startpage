@@ -1,19 +1,20 @@
 {
 	"username": "",
+	"title": "Start Page",
 	"theme": {
-		"name": "Default",
-		"backgroundColor": "#1e222c",
-		"windowColor": "#232834",
-		"textColor": "#f0f0f0",
-		"black": "#16161e",
-		"red": "#ec6183",
-		"green": "#2ed8a2",
-		"yellow": "#e8b195",
-		"blue": "#586481",
-		"magenta": "#d1aff8",
-		"cyan": "#62e0e2",
-		"white": "#f0f0f0",
-		"gray": "#97989d"
+		"name": "Nord",
+	 	"backgroundColor": "#2e3440",
+		"windowColor": "#3b4252",
+		"textColor": "#E5E9F0",
+		"black": "#3B4252",
+		"red": "#BF616A",
+		"green": "#A3BE8C",
+		"yellow": "#EBCB8B",
+		"blue": "#81A1C1",
+		"magenta": "#B48EAD",
+		"cyan": "#88C0D0",
+		"white": "#E5E9F0",
+		"gray": "#d8dee9"
 	},
 	"wallpaper": {
 		"url": "assets/default-wallpaper.svg",
@@ -65,9 +66,9 @@
 		"hoverColor": "blue"
 	},
 	"search": {
-		"default": "https://google.com/search?q=",
+		"default": "https://google.com/search?q={}",
 		"target": "_self",
-		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
+		"shortcutRegex": "(!?[A-Za-z0-9]+) (.*)",
 		"shortcuts": [
 			{
 				"alias": "g",
