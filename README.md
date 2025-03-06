@@ -4,11 +4,6 @@
 
 This is an custom interactive start page for browsers, based on Excalith Start Page
 
-[![Vercel Status](https://therealsujitk-vercel-badge.vercel.app/?app=excalith-start-page)](https://excalith-start-page.vercel.app)
-[![Demo Version (latest semver)](https://img.shields.io/github/package-json/v/excalith/excalith-start-page?label=preview)](https://github.com/excalith/excalith-start-page)
-[![GHCR Version (latest semver)](https://img.shields.io/github/v/tag/excalith/excalith-start-page?sort=semver&label=ghcr)](https://github.com/excalith/excalith-start-page/pkgs/container/excalith-start-page)
-[![Docker Version (latest semver)](https://img.shields.io/docker/v/excalith/start-page?sort=semver&label=docker)](https://hub.docker.com/r/excalith/start-page)
-
 </div>
 
 ## Demo
@@ -54,23 +49,6 @@ Please refer to [configuration](https://github.com/excalith/excalith-start-page/
 - Cycle through filtered links using <kbd>TAB</kbd> and <kbd>SHIFT</kbd> + <kbd>TAB</kbd>
 - Clear the prompt quickly with <kbd>CTRL</kbd> + <kbd>C</kbd>
 - Close windows with <kbd>ESC</kbd>
-
-
-## Using
-
-There are multiple ways of using this app explained in details on [getting started](https://github.com/excalith/excalith-start-page/wiki/Getting-Started) wiki page. Here is a TLDR:
-
-### Fork
-
-You can fork this repository and have direct control over the source code. This is the best way to customize the start page to your liking. Then you can create *Docker images*, *deploy on your server* or *serve it locally*. Check out the [Fork Wiki Page](https://github.com/excalith/excalith-start-page/wiki/Fork) for more information.
-
-### Docker Image
-
-Using a Docker image is another convenient way to use the start page. You can either use the image from Docker Hub or Github Registry. Currently supports both **amd64** and **arm64** images. Check out the [Docker Wiki Page](https://github.com/excalith/excalith-start-page/wiki/Docker) for more information.
-
-### Online Version
-You can use the Online Version (aka. preview version) as well. However, since this is the preview of the project with constant updates, it might break your configurations. I would recommend building your own fork instead. Check out the [Online Version Wiki Page](https://github.com/excalith/excalith-start-page/wiki/Online) for more information.
-
 
 ## Customization
 
