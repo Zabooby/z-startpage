@@ -24,7 +24,7 @@
 	--url-hover: var(--magenta);
 
 	--selection-fg: var(--black);
-	--selection-bg: var(--yellow);
+	--selection-bg: var(#4c566a);
 	--placeholder-color: var(--gray);
 
 	--text-glow: false;
