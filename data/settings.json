@@ -95,11 +95,6 @@
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "tdesign:money"
-					},
-					{
 						"name": "CFA",
 						"url": "https://www.cfainstitute.org",
 						"icon": "mdi:book"
@@ -113,6 +108,11 @@
 						"name": "TimeTable",
 						"url": "https://www.oracle.com/cloud",
 						"icon": "mdi:timetable"
+					},
+					{
+						"name": "Portfolio",
+						"url": "https://cancellek.com",
+						"icon": "tdesign:money
 					}
 				]
 			},

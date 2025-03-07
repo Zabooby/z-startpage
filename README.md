@@ -1,17 +1,17 @@
 <div align="center">
 	<h1 align="center">z-startpage</h1>
-	<img src=".github/startpage.gif" />
+	<p align="center"><img width=100% src="https://github.com/user-attachments/assets/c378a230-444b-4033-8f26-2eb1d0296049"></p>
 
-This is an custom interactive start page for browsers, based on Excalith Start Page
+This is an custom interactive start page for browsers, based on [Excalith Start Page](https://github.com/excalith/excalith-start-page).
 
 </div>
 
 ## Demo
 
-You can explore the working version [here](https://excalith-start-page.vercel.app). To get inspired by community members' configurations, visit the [Showcase](https://github.com/excalith/excalith-start-page/discussions/categories/showcase) in discussions!
+You can explore the working version [here](https://z-startpage.vercel.app/). 
 
 > [!IMPORTANT]
-> This is a demo version and will be updated regularly, which might break your configurations. It is not recommended for daily browsing. Please refer to the [wiki page](https://github.com/excalith/excalith-start-page/wiki/Getting-Started) for more information.
+> This is a demo version and will be updated regularly, which might break your configurations. It is not recommended for daily browsing. Please refer to the [Excalith wiki page](https://github.com/excalith/excalith-start-page/wiki/Getting-Started) for more information. Note that the Docker option will not work with z-startpage.
 
 ## Features
 
@@ -22,13 +22,12 @@ You can explore the working version [here](https://excalith-start-page.vercel.ap
 - Search websites with custom commands. For example, type `s some weird bug` to search StackOverflow for `some weird bug`
 - Wallpaper support through URL with blur and fade effects
 - Terminal window opacity and translucency effects
-- Customizable Fetch UI for fetching browser and system data, including custom image support
+- Customisable Fetch UI for fetching browser and system data, including custom image support
 - Autosuggest and Autocomplete support just like `zsh` and `fish`
 - Cycle through filtered links back and forth
-- Multiple theme support (check all [available themes](./data/themes/))
 - Built-in configuration editor to easily edit and save your configuration
 
-Please refer to [configuration](https://github.com/excalith/excalith-start-page/wiki/Configuration) page for more information.
+Please refer to the [Exalith configuration](https://github.com/excalith/excalith-start-page/wiki/Configuration) page for more information.
 
 ### Built-In Commands
 
@@ -50,13 +49,11 @@ Please refer to [configuration](https://github.com/excalith/excalith-start-page/
 - Clear the prompt quickly with <kbd>CTRL</kbd> + <kbd>C</kbd>
 - Close windows with <kbd>ESC</kbd>
 
-## Customization
+## Customisation
 
-This project, at its heart, supports customization to better suit your desktop environment. There are three methods to personalize the project according to your preferences:
+This project, at its heart, supports customisation to better suit your desktop environment. There are three methods to personalise the project according to your preferences:
 
 You can either
 - **Method 1:** Configure your **fork** by editing [settings.json](./data/settings.json) file
 - **Method 2:** Use `config edit` command to edit on the fly, by built-in json editor
 - **Method 3:** Use `config import <url>` command to import your remote config file from your dotfiles repository
-  
-Check out the [Configuration](https://github.com/excalith/excalith-start-page/wiki/Configuration) and [Themes](https://github.com/excalith/excalith-start-page/wiki/Themes) wiki pages for more information regarding themes and configuration options.
