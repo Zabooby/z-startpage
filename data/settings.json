@@ -137,9 +137,9 @@
 						"icon": "mdi:youtube"
 					},
 					{
-						"name": "Flipboard",
-						"url": "https://flipboard.com",
-						"icon": "mdi:newspaper-variant"
+						"name": "Inoreader",
+						"url": "https://www.inoreader.com",
+						"icon": "simple-icons:inoreader"
 					}
 				]
 			},
@@ -198,7 +198,7 @@
 				]
 			},
 			{
-				"title": "Other Stuff",
+				"title": "Dev",
 				"color": "blue",
 				"align": "left",
 				"links": [
@@ -223,32 +223,7 @@
 						"icon": "fa6-brands:square-hacker-news"
 					}
 				]
-			},
-			{
-				"title": "Comics",
-				"color": "blue",
-				"align": "left",
-				"links": [
-					{
-						"name": "xkcd",
-						"url": "https://xkcd.com",
-						"icon": "mdi:comic-bubble"
-					},
-					{
-						"name": "SMBC",
-						"url": "https://www.smbc-comics.com",
-						"icon": "mdi:comic-bubble"
-					},
-					{
-						"name": "Swords",
-						"url": "https://swordscomic.com",
-						"icon": "mdi:comic-bubble"
-					},
-					{
-						"name": "Cyanide and Happiness",
-						"url": "https://explosm.net/comics/latest",
-						"icon": "mdi:comic-bubble"
-					}
+			}
 				]
 			}
 		]
